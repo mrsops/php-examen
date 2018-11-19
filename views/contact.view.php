@@ -29,23 +29,23 @@
 	       	  <div class="form-group">
 	       	  	<div class="col-xs-6">
 	       	  	    <label class="label-control">First Name</label>
-	       	  		<input class="form-control" type="text" name="nombre" value="$nombre">
+	       	  		<input class="form-control" type="text" name="nombre" value=<?= $nombre ?>>
 	       	  	</div>
 	       	  	<div class="col-xs-6">
 	       	  	    <label class="label-control">Last Name</label>
-	       	  		<input class="form-control" type="text" name="apellidos" value="$apellidos">
+	       	  		<input class="form-control" type="text" name="apellidos" value=<?= $apellidos ?>>
 	       	  	</div>
 	       	  </div>
 	       	  <div class="form-group">
 	       	  	<div class="col-xs-12">
 	       	  		<label class="label-control">Email</label>
-	       	  		<input class="form-control" type="text" name="email" value="$email">
+	       	  		<input class="form-control" type="text" name="email" value=<?= $email ?>>
 	       	  	</div>
 	       	  </div>
 	       	  <div class="form-group">
 	       	  	<div class="col-xs-12">
 	       	  		<label class="label-control">Subject</label>
-	       	  		<input class="form-control" type="text" name="asunto" value="$asunto">
+	       	  		<input class="form-control" type="text" name="asunto" value=<?= $asunto ?>>
 	       	  	</div>
 	       	  </div>
 	       	  <div class="form-group">

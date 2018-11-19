@@ -1,13 +1,24 @@
 <?php
 $errores=[];
 $mensaje='';
+$nombre='';
+$apellidos='';
+$email='';
+$asunto='';
+$texto='';
 if($_SERVER['REQUEST_METHOD']==='POST')
 {
-    $nombre=trim(htmlspecialchars($_POST['nombre']));
-    $apellidos=trim(htmlspecialchars($_POST['apellidos']));
-    $email=trim(htmlspecialchars($_POST['email']));
-    $asunto=trim(htmlspecialchars($_POST['asunto']));
-    $texto=trim(htmlspecialchars($_POST['texto']));
+    $nombre=$_POST['nombre'];
+    $apellidos=$_POST['apellidos'];
+    $email=$_POST['email'];
+    $asunto=$_POST['asunto'];
+    $texto=$_POST['texto'];
+
+    $nombre=trim(htmlspecialchars($nombre));
+    $apellidos=trim(htmlspecialchars($apellidos));
+    $email=trim(htmlspecialchars($email));
+    $asunto=trim(htmlspecialchars($asunto));
+    $texto=trim(htmlspecialchars($texto));
     if(empty($nombre))
             $errores[]="El nombre no puede estar vacio";
     if(empty($email))
