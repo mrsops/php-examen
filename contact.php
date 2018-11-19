@@ -22,4 +22,5 @@ if($_SERVER['REQUEST_METHOD']==='POST')
         $mensaje="los datos del formulario son correctos";
 
 }
+require 'utils/utils.php';
 require 'views/contact.view.php';
