@@ -10,7 +10,7 @@
          <div class="col-xs-12 intro">
             <div class="carousel-inner">
                <div class="item active">
-                <img class="img-responsive" src="../images/index/woman.jpg" alt="header picture">
+                <img class="img-responsive" src="./images/index/woman.jpg" alt="header picture">
                </div>
                <div class="carousel-caption">
                   <h1>FIND NICE PICTURES HERE</h1>
@@ -43,12 +43,12 @@
               <div class="row popup-gallery">
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                  <img class="img-responsive" src="../images/index/portfolio/1.jpg" alt="First category picture">
+                  <img class="img-responsive" src="./images/index/portfolio/1.jpg" alt="First category picture">
                   <div class="behind">
                       <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/1.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/1.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -81,12 +81,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/2.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/2.jpg" alt="First category picture">
                     <div class="behind"> 
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/2.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/2.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -119,12 +119,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/3.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/3.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/3.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/3.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -157,12 +157,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/4.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/4.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/4.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/4.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -195,12 +195,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/5.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/5.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/5.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/5.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -233,12 +233,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/8.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/8.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/8.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/8.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -271,12 +271,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/7.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/7.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/7.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/7.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -309,12 +309,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/6.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/6.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/6.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/6.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -347,12 +347,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/9.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/9.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/9.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/9.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -385,12 +385,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/10.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/10.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/10.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/10.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -423,12 +423,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/11.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/11.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/11.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/11.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -461,12 +461,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/12.jpg" alt="First category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/12.jpg" alt="First category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/12.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/12.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -516,12 +516,12 @@
              <div class="row popup-gallery">
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/9.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/9.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/9.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/9.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -554,12 +554,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/10.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/10.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/10.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/10.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -592,12 +592,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/11.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/11.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/11.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/11.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -630,12 +630,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/12.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/12.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/12.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/12.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -668,12 +668,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/5.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/5.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/5.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/5.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -706,12 +706,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/8.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/8.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/8.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/8.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -744,12 +744,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/7.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/7.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/7.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/7.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -782,12 +782,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/6.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/6.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/6.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/6.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -820,12 +820,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/1.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/1.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/1.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/1.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -858,12 +858,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/2.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/2.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/2.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/2.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -896,12 +896,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/3.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/3.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/3.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/3.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -934,12 +934,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/4.jpg" alt="second category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/4.jpg" alt="second category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/4.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/4.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -989,12 +989,12 @@
              <div class="row popup-gallery">
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/5.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/5.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/5.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/5.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1027,12 +1027,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/8.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/8.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/8.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/8.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1065,12 +1065,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/7.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/7.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/7.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/7.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1103,12 +1103,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/6.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/6.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/6.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/6.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1141,12 +1141,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/1.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/1.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/1.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/1.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1179,12 +1179,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/2.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/2.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/2.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/2.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1217,12 +1217,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/3.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/3.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/3.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/3.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1255,12 +1255,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/4.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/4.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/4.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/4.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1293,12 +1293,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/9.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/9.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/9.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/9.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1331,12 +1331,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/10.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/10.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/10.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/10.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1369,12 +1369,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/11.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/11.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/11.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/11.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1407,12 +1407,12 @@
                 </div> 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                 <div class="sol">
-                    <img class="img-responsive" src="../images/index/portfolio/12.jpg" alt="third category picture">
+                    <img class="img-responsive" src="./images/index/portfolio/12.jpg" alt="third category picture">
                     <div class="behind">
                         <div class="head text-center">
                         <ul class="list-inline">
                           <li>
-                            <a class="gallery" href="../images/index/gallery/12.jpg" data-toggle="tooltip" data-original-title="Quick View">
+                            <a class="gallery" href="./images/index/gallery/12.jpg" data-toggle="tooltip" data-original-title="Quick View">
                               <i class="fa fa-eye"></i>
                             </a>
                           </li>
@@ -1488,15 +1488,15 @@
           <hr>
           <div class="text-muted text-left">
             <ul class="list-inline">
-              <li><img src="../images/index/log2.jpg" alt="logo"></li>
+              <li><img src="./images/index/log2.jpg" alt="logo"></li>
               <li>First Partner Name</li>
             </ul>
             <ul class="list-inline">
-              <li><img src="../images/index/log1.jpg" alt="logo"></li>
+              <li><img src="./images/index/log1.jpg" alt="logo"></li>
               <li>Second Partner Name</li>
             </ul>
             <ul class="list-inline">
-              <li><img src="../images/index/log3.jpg" alt="logo"></li>
+              <li><img src="./images/index/log3.jpg" alt="logo"></li>
               <li>Third Partner Name</li>
             </ul>
           </div>
