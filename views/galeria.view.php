@@ -42,6 +42,39 @@
         </div>
     </div>
 </div>
+
+
+<!-- Tablas de imagenes -->
+<table class="table table-dark">
+    <thead>
+    <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Imagen</th>
+        <th scope="col">Visualizaciones</th>
+        <th scope="col">Likes</th>
+        <th scope="col">Descargas</th>
+    </tr>
+    </thead>
+    <tbody>
+    <?php foreach ($imagenes as $imagen) : ?>
+        <tr>
+            <th scope="row"><?= $imagen->getId() ?></th>
+            <td>
+                <img src="<?= $imagen->getUrlGallery() ?>"
+                     alt="<?= $imagen->getNombre() ?>"
+                     title="<?= $imagen->getDescripcion()?>"
+                     width="100px"
+                />
+            </td>
+            <td><?= $imagen->getNumVisualizaciones()?></td>
+            <td><?= $imagen->getNumLikes()?></td>
+            <td><?= $imagen->getNumDownloads()?></td>
+        </tr>
+    <?php endforeach; ?>
+    </tbody>
+</table>
+
+
 <!-- Principal Content Start -->
 
 <?php include __DIR__ . '/partials/fin-doc.part.php'; ?>

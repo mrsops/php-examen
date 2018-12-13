@@ -22,8 +22,8 @@ class File
         $this->file = $_FILES[$fileName];
         $this->fileName = '';
 
-        if (isset($this->file)){
-
+        if (!isset($this->file)){
+            throw new FileException('Debes seleccionar un archivo');
         }
 
         if ($this->file['error'] !== UPLOAD_ERR_OK){
@@ -63,18 +63,20 @@ class File
      * @throws FileException
      */
     public function saveUploadFile($rutaDestino){
-        if(is_uploaded_file($this->file['tmp_name'])===false){
+        if(is_uploaded_file($this->file['tmp_name'])===false) {
             throw new FileException('El archivo no se ha subido con un formulario');
+            }
             $this->fileName=$this->file['name'];
             $ruta=$rutaDestino.$this->fileName;
             if(is_file($ruta)===true){
                 $idUnico=time();
-                $this->fileName=$this->fileName.$idUnico;
+                $this->fileName=$idUnico.'_'.$this->fileName;
+                $ruta=$rutaDestino.$this->fileName;
             }
             if (move_uploaded_file($this->file['tmp_name'],$ruta)===false){
              throw new FileException('No se puede mover el fichero a su destino');
             }
-        }
+
     }
 
     public function copyFile(string $rutaOrigen, string $rutaDestino){
@@ -85,7 +87,7 @@ class File
             throw new FileException('No existe el fichero '.$origen.' que estas intentando copiar');
         }
 
-        if (is_file($destino)===false){
+        if (is_file($destino)===true){
             throw new FileException('El fichero '.$destino.' ya existe y no se puede sobreescribir');
         }
 
