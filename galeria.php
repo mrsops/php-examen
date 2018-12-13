@@ -17,13 +17,10 @@ require_once __DIR__. '/repository/ImagenGaleriaRepository.php';
 $errores=[];
 $descripcion='';
 $mensaje='';
-$imagenes=[];
+
 
 $connection=App::getConnection();
 
-
-if($_SERVER['REQUEST_METHOD' ]==='POST')
-{
     try{
         $config=require_once 'app/config.php';
         App::bind('config', $config);
@@ -50,5 +47,4 @@ if($_SERVER['REQUEST_METHOD' ]==='POST')
         $errores[]=$exception->getMessage();
     }
 
-}
 require 'views/galeria.view.php';
