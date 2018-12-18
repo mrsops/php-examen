@@ -49,39 +49,42 @@
                     </div>
                 </div>
             </form>
+
+
+            <!-- Tablas de imagenes -->
+            <table class="table table-dark">
+                <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Logo</th>
+                    <th scope="col">Descripcion</th>
+                </tr>
+                </thead>
+                <tbody>
+                <?php foreach ($asociados ?? [] as $asociado) : ?>
+                    <tr>
+                        <th scope="row"><?= $asociado->getId() ?></th>
+                        <td><?= $asociado->getNombre() ?></td>
+                        <td>
+                            <img src="<?= $asociado->getUrlPortfolio() ?>"
+                                 alt="<?= $asociado->getLogo() ?>"
+                                 title="<?= $asociado->getDescripcion()?>"
+                                 width="100px"
+                            />
+                        </td>
+                        <td><?= $asociado->getDescripcion()?></td>
+
+                    </tr>
+                <?php endforeach; ?>
+                </tbody>
+            </table>
+
         </div>
     </div>
 </div>
 
 
-<!-- Tablas de imagenes -->
-<table class="table table-dark">
-    <thead>
-    <tr>
-        <th scope="col">ID</th>
-        <th scope="col">Nombre</th>
-        <th scope="col">Logo</th>
-        <th scope="col">Descripcion</th>
-    </tr>
-    </thead>
-    <tbody>
-    <?php foreach ($asociados ?? [] as $asociado) : ?>
-        <tr>
-            <th scope="row"><?= $asociado->getId() ?></th>
-            <td><?= $asociado->getNombre() ?></td>
-            <td>
-                <img src="<?= $asociado->getUrlPortfolio() ?>"
-                     alt="<?= $asociado->getLogo() ?>"
-                     title="<?= $asociado->getDescripcion()?>"
-                     width="100px"
-                />
-            </td>
-            <td><?= $asociado->getDescripcion()?></td>
-
-        </tr>
-    <?php endforeach; ?>
-    </tbody>
-</table>
 
 
 <!-- Principal Content Start -->
